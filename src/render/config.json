@@ -1,6 +1,6 @@
 {
     "dialect": "mysql",
-    "database": "school_admin_site",
+    "database": "database-name",
     "host": "localhost",
     "user": "root",
     "password": "admin1234"
