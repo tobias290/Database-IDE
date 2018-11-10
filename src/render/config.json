@@ -1,0 +1,7 @@
+{
+    "dialect": "mysql",
+    "database": "school_admin_site",
+    "host": "localhost",
+    "user": "root",
+    "password": "admin1234"
+}
